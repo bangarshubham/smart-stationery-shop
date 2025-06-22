@@ -1,0 +1,6 @@
+@OnionTech.Billing.Software.API_HostAddress = http://localhost:5030
+
+GET {{OnionTech.Billing.Software.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

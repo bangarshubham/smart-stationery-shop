@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/stationery-backend/OnionTech.Billing.Software.API/obj/Debug/net8.0
+/stationery-backend/OnionTech.Billing.Software.Common/bin/Debug/net8.0
+/stationery-backend/OnionTech.Billing.Software.Common/obj/Debug/net8.0
+/stationery-backend/OnionTech.Billing.Software.Common/obj
+/stationery-backend/OnionTech.Billing.Software.Infrastructure/bin/Debug/net8.0
+/stationery-backend/OnionTech.Billing.Software.API/bin/Debug/net8.0
+/stationery-backend/OnionTech.Billing.Software.API/.vs/OnionTech.Billing.Software.API
+/stationery-backend/OnionTech.Billing.Software.API/obj
+/stationery-backend/OnionTech.Billing.Software.Infrastructure/obj
+/stationery-backend/OnionTech.Billing.Software.Repository/bin/Debug/net8.0
+/stationery-backend/OnionTech.Billing.Software.Repository/obj
+/stationery-backend/OnionTech.Billing.Software.Service/bin/Debug/net8.0
+/stationery-backend/OnionTech.Billing.Software.Service/obj
