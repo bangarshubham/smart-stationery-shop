@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnionTech.Billing.Software.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnionTech.Billing.Software.Infrastructure", "..\OnionTech.Billing.Software.Infrastructure\OnionTech.Billing.Software.Infrastructure.csproj", "{67E3B084-7281-4180-969C-C2B095CB25C9}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "OnionTech.Billing.Software.Database", "..\OnionTech.Billing.Software.Database\OnionTech.Billing.Software.Database.sqlproj", "{B7D60103-EBBA-4B33-A17F-C9B01D324E3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,12 @@ Global
 		{67E3B084-7281-4180-969C-C2B095CB25C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67E3B084-7281-4180-969C-C2B095CB25C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67E3B084-7281-4180-969C-C2B095CB25C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D60103-EBBA-4B33-A17F-C9B01D324E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D60103-EBBA-4B33-A17F-C9B01D324E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D60103-EBBA-4B33-A17F-C9B01D324E3A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B7D60103-EBBA-4B33-A17F-C9B01D324E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D60103-EBBA-4B33-A17F-C9B01D324E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D60103-EBBA-4B33-A17F-C9B01D324E3A}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

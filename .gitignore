@@ -15,3 +15,5 @@
 /stationery-backend/OnionTech.Billing.Software.Repository/obj
 /stationery-backend/OnionTech.Billing.Software.Service/bin/Debug/net8.0
 /stationery-backend/OnionTech.Billing.Software.Service/obj
+/stationery-backend/OnionTech.Billing.Software.Database/bin/Debug
+/stationery-backend/OnionTech.Billing.Software.Database/obj/Debug
